@@ -1,0 +1,164 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 820c479ad56185a4f835a7c25e4c4b4b
+  - enabled: 1
+    path: Assets/Scenes/Shop.unity
+    guid: 34597192e713e6e4490172ca7a55e411
+  - enabled: 1
+    path: Assets/Scenes/tutorial.unity
+    guid: 01f2892923cc04c4e9c4f1ea7bb7023e
+  - enabled: 1
+    path: Assets/Scenes/Options.unity
+    guid: 7ec2f346ebdd99144aaec699d04d3709
+  - enabled: 1
+    path: Assets/Scenes/power_ups.unity
+    guid: 93c4acb2f0fdb644ca5e58571b4391f3
+  - enabled: 1
+    path: Assets/Scenes/pevnost_shop.unity
+    guid: 629ca46f79f1abf41abf995f314c1222
+  - enabled: 1
+    path: Assets/Scenes/Levels.unity
+    guid: 66fb520d6eb0ace4ea768d7fb634d72d
+  - enabled: 1
+    path: "Assets/Scenes/Levels_obdob\xED/Levels_Budoucnost.unity"
+    guid: f0d9d89accd0f79429a3685cf6453d04
+  - enabled: 1
+    path: Assets/Scenes/scenesB_Levels_Budoucnost/Level 1_Budoucnost.unity
+    guid: d80cdef791a4fb24d8e254e1a4619d1e
+  - enabled: 1
+    path: Assets/Scenes/scenesB_Levels_Budoucnost/Level 2_Budoucnost.unity
+    guid: 0498993bd47a28b40a30f387f1d2b43d
+  - enabled: 1
+    path: Assets/Scenes/scenesB_Levels_Budoucnost/Level 3_Budoucnost.unity
+    guid: d0ba15db6a72ad44f8db53888e96917c
+  - enabled: 1
+    path: Assets/Scenes/scenesB_Levels_Budoucnost/Level 4_Budoucnost.unity
+    guid: edcbb6b907cfc9d4f902b0f56948ac76
+  - enabled: 1
+    path: Assets/Scenes/scenesB_Levels_Budoucnost/Level 5_Budoucnost.unity
+    guid: bb546be0724f3604f88ae64930dd72af
+  - enabled: 1
+    path: Assets/Scenes/scenesB_Levels_Budoucnost/Level 6_Budoucnost.unity
+    guid: a3afe27e51bc1004096be5b3b7fb3b94
+  - enabled: 1
+    path: Assets/Scenes/scenesB_Levels_Budoucnost/Level 7_Budoucnost.unity
+    guid: 02aacae08db6c3c4193c2afc4bdcfad2
+  - enabled: 1
+    path: Assets/Scenes/scenesB_Levels_Budoucnost/Level 8_Budoucnost.unity
+    guid: 6f0bf26c9a3472b458410f1154cbb3f9
+  - enabled: 1
+    path: "Assets/Scenes/Levels_obdob\xED/Levels_Novov\u011Bk.unity"
+    guid: 51c83b45bc98a3b4abdc26ea51c2d277
+  - enabled: 1
+    path: "Assets/Scenes/scenesN_Levels_Novov\u011Bk/Level 1_Novov\u011Bk.unity"
+    guid: eb79f606bd636c9448585b0863cf3b5d
+  - enabled: 1
+    path: "Assets/Scenes/scenesN_Levels_Novov\u011Bk/Level 2_Novov\u011Bk.unity"
+    guid: db30b7cf2a407ee4db6f516db5e601d3
+  - enabled: 1
+    path: "Assets/Scenes/scenesN_Levels_Novov\u011Bk/Level 3_Novov\u011Bk.unity"
+    guid: 1a5b1bd8eee40a24dbeda4479c6499ba
+  - enabled: 1
+    path: "Assets/Scenes/scenesN_Levels_Novov\u011Bk/Level 4_Novov\u011Bk.unity"
+    guid: 4449fe5ec31a23a4e9de0cbf1e17c06a
+  - enabled: 1
+    path: "Assets/Scenes/scenesN_Levels_Novov\u011Bk/Level 5_Novov\u011Bk.unity"
+    guid: 7f1c7175b6980904cb4e7ae39419a675
+  - enabled: 1
+    path: "Assets/Scenes/scenesN_Levels_Novov\u011Bk/Level 6_Novov\u011Bk.unity"
+    guid: c2fa9410f3244c647bfc7dc0c57472ac
+  - enabled: 1
+    path: "Assets/Scenes/scenesN_Levels_Novov\u011Bk/Level 7_Novov\u011Bk.unity"
+    guid: 9aed7ff954debf9439a2d5d0143abb8e
+  - enabled: 1
+    path: "Assets/Scenes/scenesN_Levels_Novov\u011Bk/Level 8_Novov\u011Bk.unity"
+    guid: fb313e475db758c4090b85c0eb411977
+  - enabled: 1
+    path: "Assets/Scenes/Levels_obdob\xED/Levels_St\u0159edov\u011Bk.unity"
+    guid: 07f4ddeedc9f34b41b257834abd52355
+  - enabled: 1
+    path: "Assets/Scenes/scenecS\u0158_Levels_St\u0159edov\u011Bk/Level 1_St\u0159edov\u011Bk.unity"
+    guid: d3192f42d5ea5384395c41b5cc8390ca
+  - enabled: 1
+    path: "Assets/Scenes/scenecS\u0158_Levels_St\u0159edov\u011Bk/Level 2_St\u0159edov\u011Bk.unity"
+    guid: 8d67db50dcc6a084196dd59ca763d1e2
+  - enabled: 1
+    path: "Assets/Scenes/scenecS\u0158_Levels_St\u0159edov\u011Bk/Level 3_St\u0159edov\u011Bk.unity"
+    guid: d7f12ada36b4534499186fc93e249ae0
+  - enabled: 1
+    path: "Assets/Scenes/scenecS\u0158_Levels_St\u0159edov\u011Bk/Level 4_St\u0159edov\u011Bk.unity"
+    guid: e62a7336cd5ef674e8b7c5a29d9539d0
+  - enabled: 1
+    path: "Assets/Scenes/scenecS\u0158_Levels_St\u0159edov\u011Bk/Level 5_St\u0159edov\u011Bk.unity"
+    guid: 5b56b17360e31c044a83da8519b97750
+  - enabled: 1
+    path: "Assets/Scenes/scenecS\u0158_Levels_St\u0159edov\u011Bk/Level 6_St\u0159edov\u011Bk.unity"
+    guid: b940412312852e045b24114dc30819bd
+  - enabled: 1
+    path: "Assets/Scenes/scenecS\u0158_Levels_St\u0159edov\u011Bk/Level 7_St\u0159edov\u011Bk.unity"
+    guid: 789b80a626fcca745875fc4071b5ff99
+  - enabled: 1
+    path: "Assets/Scenes/scenecS\u0158_Levels_St\u0159edov\u011Bk/Level 8_St\u0159edov\u011Bk.unity"
+    guid: 6bb29207efe027e4a8a5877a21ce12b4
+  - enabled: 1
+    path: "Assets/Scenes/Levels_obdob\xED/Levels_Starov\u011Bk.unity"
+    guid: 64769043125b8b94faa04e868cfac702
+  - enabled: 1
+    path: "Assets/Scenes/scenesSR_levels_Starov\u011Bk/Level 1_Starov\u011Bk.unity"
+    guid: 2a77583bd6acb1240ad549ffe01f22ad
+  - enabled: 1
+    path: "Assets/Scenes/scenesSR_levels_Starov\u011Bk/Level 2_Starov\u011Bk.unity"
+    guid: 5b70101bd936a614db525028e8598ca6
+  - enabled: 1
+    path: "Assets/Scenes/scenesSR_levels_Starov\u011Bk/Level 3_Starov\u011Bk.unity"
+    guid: f2f4ec750a2cdbe4e9cf5dcceafb9e79
+  - enabled: 1
+    path: "Assets/Scenes/scenesSR_levels_Starov\u011Bk/Level 4_Starov\u011Bk.unity"
+    guid: eb7a344b86ec92d4289f59299deb029b
+  - enabled: 1
+    path: "Assets/Scenes/scenesSR_levels_Starov\u011Bk/Level 5_Starov\u011Bk.unity"
+    guid: 256f07febc9e7dc449c3eb1e9573181d
+  - enabled: 1
+    path: "Assets/Scenes/scenesSR_levels_Starov\u011Bk/Level 6_Starov\u011Bk.unity"
+    guid: 59fd11b86ac262140b792ab3afcbd135
+  - enabled: 1
+    path: "Assets/Scenes/scenesSR_levels_Starov\u011Bk/Level 7_Starov\u011Bk.unity"
+    guid: 1ccd1870bd2596b46ac5d10e38dbf9da
+  - enabled: 1
+    path: "Assets/Scenes/scenesSR_levels_Starov\u011Bk/Level 8_Starov\u011Bk.unity"
+    guid: a080649daa3589d4eade59e9b8c29d26
+  - enabled: 1
+    path: "Assets/Scenes/Levels_obdob\xED/Levels_Prav\u011Bk.unity"
+    guid: f130960537da9c54187a6295075b4754
+  - enabled: 1
+    path: "Assets/Scenes/scenesP_Levels_Prav\u011Bk/Level 2_Prav\u011Bk.unity"
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: "Assets/Scenes/scenesP_Levels_Prav\u011Bk/Level 1_Prav\u011Bk.unity"
+    guid: 553abd29147c46e49b0a9347d26f4bc9
+  - enabled: 1
+    path: "Assets/Scenes/scenesP_Levels_Prav\u011Bk/Level 3_Prav\u011Bk.unity"
+    guid: 3e42453c7109a514f8f6386e78200b6c
+  - enabled: 1
+    path: "Assets/Scenes/scenesP_Levels_Prav\u011Bk/Level 4_Prav\u011Bk.unity"
+    guid: 09c8b88bc9e16cd45ace4b6339543d5c
+  - enabled: 1
+    path: "Assets/Scenes/scenesP_Levels_Prav\u011Bk/Level 5_Prav\u011Bk.unity"
+    guid: e76c954d2be302c438a1decab1cdfa7c
+  - enabled: 1
+    path: "Assets/Scenes/scenesP_Levels_Prav\u011Bk/Level 6_Prav\u011Bk.unity"
+    guid: f857f62b714462b4880aee2a8224d49f
+  - enabled: 1
+    path: "Assets/Scenes/scenesP_Levels_Prav\u011Bk/Level 7_Prav\u011Bk.unity"
+    guid: 906758c08ba422145aba966a5cf19b12
+  - enabled: 1
+    path: "Assets/Scenes/scenesP_Levels_Prav\u011Bk/Level 8_Prav\u011Bk.unity"
+    guid: 6cdb369b6e672a84cb250bcdb613ebf4
+  m_configObjects: {}
